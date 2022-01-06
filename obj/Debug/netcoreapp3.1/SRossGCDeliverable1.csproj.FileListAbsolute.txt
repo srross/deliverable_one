@@ -4,7 +4,6 @@ C:\GCWorkshop\SRossGCDeliverable1\bin\Debug\netcoreapp3.1\SRossGCDeliverable1.ru
 C:\GCWorkshop\SRossGCDeliverable1\bin\Debug\netcoreapp3.1\SRossGCDeliverable1.runtimeconfig.dev.json
 C:\GCWorkshop\SRossGCDeliverable1\bin\Debug\netcoreapp3.1\SRossGCDeliverable1.dll
 C:\GCWorkshop\SRossGCDeliverable1\bin\Debug\netcoreapp3.1\SRossGCDeliverable1.pdb
-C:\GCWorkshop\SRossGCDeliverable1\obj\Debug\netcoreapp3.1\SRossGCDeliverable1.csprojAssemblyReference.cache
 C:\GCWorkshop\SRossGCDeliverable1\obj\Debug\netcoreapp3.1\SRossGCDeliverable1.AssemblyInfoInputs.cache
 C:\GCWorkshop\SRossGCDeliverable1\obj\Debug\netcoreapp3.1\SRossGCDeliverable1.AssemblyInfo.cs
 C:\GCWorkshop\SRossGCDeliverable1\obj\Debug\netcoreapp3.1\SRossGCDeliverable1.csproj.CoreCompileInputs.cache
