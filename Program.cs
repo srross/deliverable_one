@@ -58,15 +58,16 @@ namespace SRossGCDeliverable1
                     {
                         restart = true;
                     }
-                    else 
+                    else
                     {
-                        Console.WriteLine("Goodbye!");
                         restart = false;
+                        Console.WriteLine("Goodbye!");
+                        Console.ReadLine();
                     }
                 }
                 else
                 {
-                    Console.Write(input + " is not a valid entry. Would you like to restart ? Enter yes or y to continue, or enter any other key to exit. ");
+                    Console.Write(input + " is not a valid entry. Would you like to try again? Enter yes or y to continue, or enter any other key to exit. ");
                     var restartResponse = Console.ReadLine();
 
                     if (restartResponse.ToLower() == "y" || restartResponse.ToLower() == "yes")
@@ -75,11 +76,12 @@ namespace SRossGCDeliverable1
                     }
                     else
                     {
-                        Console.WriteLine("Goodbye!");
                         restart = false;
-                    }
+                        Console.WriteLine("Goodbye!");
+                        Console.ReadLine();
+                    }                   
                 }
-            } while (restart == true);
+            } while (restart == true);    
         }
     }
 }
